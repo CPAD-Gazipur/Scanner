@@ -1,16 +1,5 @@
-# flutter_demo
+#Scanner App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ea1c26c8-125e-4071-b0d5-faaf930bdfc4](https://user-images.githubusercontent.com/74914169/151321812-d99fad56-aa6f-4768-8299-56a2babed218.jpg)
+![a2fcc30b-cc18-4291-b6f1-6f1e664991ee](https://user-images.githubusercontent.com/74914169/151321830-ec4b02cc-38ec-442e-9bf7-f29de3c1dda7.jpg)
+![cfeb8402-8cd2-418c-85ab-93bc096f3193](https://user-images.githubusercontent.com/74914169/151321841-b4e463bf-d025-456f-971a-878d1e358bf7.jpg)
